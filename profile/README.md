@@ -204,9 +204,6 @@ NIM Studio is intended to support:
 
 It does **not** replace scientific quality control, institutional governance, information-security review, or professional judgment.
 
-> [!CAUTION]
-> NIM Studio `0.1.0-beta` is **not intended for clinical diagnosis, treatment decisions, emergency use, or any other purpose requiring a validated or regulated medical device.**
-
 ---
 
 ## Installation and beta access
@@ -283,8 +280,6 @@ Use synthetic or appropriately de-identified test data when evaluating a new wor
 
 Never place participant data, credentials, access tokens, private keys, or confidential institutional information in public GitHub issues, documentation, or support requests.
 
-> [!WARNING]
-> Suspected vulnerabilities or data-security incidents must be reported privately through the official NIM Studio contact channel. Do not disclose vulnerability details in a public GitHub issue.
 
 ---
 
